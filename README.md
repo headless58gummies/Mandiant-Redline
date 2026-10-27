@@ -225,4 +225,4 @@ Mandiant Redline is available as a full free version with all features and updat
 Download Mandiant Redline today and safeguard your network against malware threats with the complete, free version.
 
 ---
-**Last updated:** 2026-10-26 22:02:51 UTC
+**Last updated:** 2026-10-27 01:41:36 UTC
